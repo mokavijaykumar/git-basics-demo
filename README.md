@@ -16,10 +16,11 @@
 7. git add test.py
 8. git status
 9. git commit -m " purpose of the commit "
-10. git push 
-11. git config --global user.email "mvijaykumar1424@gmail.com"
+10. git push origin main
+11. git log --> it shows that what are all commits should it displays
+12. git config --global user.email "mvijaykumar1424@gmail.com"
 -------------- The very first time commit you should authenticate your email and password-----------
-12. git push origin main
+13. git push origin main
 -- it will ask url browser email and password authentication ------
 -- Access token thru will push the code from local machine to github browser --
 ---------------------------------------------------------------------------------
